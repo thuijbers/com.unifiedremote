@@ -1,4 +1,4 @@
-# Homey application launcher
+# Homey Application Launcher
 
 Launch apps on Windows or Mac via the Flow editor.
 Requires a server wich is running on a Mac or PC.
